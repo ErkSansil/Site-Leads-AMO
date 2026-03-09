@@ -4,7 +4,7 @@
 body {
     background-color: #000; /* fundo preto */
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     margin: 0;
